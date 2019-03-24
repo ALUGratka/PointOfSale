@@ -1,8 +1,6 @@
 package pl.gratkowska.alicja;
 
-import java.util.Collections;
 import java.util.HashMap;
-import java.util.Map;
 
 public class DatabaseOfProducts {
     private static HashMap<String, Product>productsInDatabase;

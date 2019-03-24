@@ -1,7 +1,5 @@
 package pl.gratkowska.alicja;
 
-
-import org.hamcrest.CoreMatchers;
 import org.junit.*;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
