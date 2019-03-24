@@ -1,38 +1,59 @@
 package pl.gratkowska.alicja;
 
-import org.junit.After;
-import org.junit.Assert;
-import org.junit.Before;
-import org.junit.Test;
-import pl.gratkowska.alicja.ShoppingList;
 
+import org.hamcrest.CoreMatchers;
+import org.junit.*;
+import org.mockito.InjectMocks;
+import org.mockito.Mock;
+import org.mockito.Mockito;
+import static org.hamcrest.core.Is.is;
+import static org.hamcrest.core.IsNull.notNullValue;
 
-//trzeba zaimplementowac testy dla metod add i print - print jezeli lista zakupow jest pusta
-
-public class ShoppingListTest {
-    private static final Float PRICE_DELAT = 0.01f;
-
-    private ShoppingList shoppingList;
-    private Product product;
-
+public class ShoppingListTest  {
+    @Mock
+    ShoppingList shoppingListMock;
+    @InjectMocks
+    Product productMock;
 
     @Before
     public void setUp(){
-        product = new Product("banan",1.56f);
-        shoppingList = new ShoppingList();
+        productMock = new Product("banan",1.23f);
+        shoppingListMock = Mockito.mock(ShoppingList.class);
     }
 
-    @After
-    public void tearDown() throws Exception {
+    @Test
+    public void shouldCreateMockInstance(){
+        Assert.assertThat(shoppingListMock,is(notNullValue()));
+    }
+
+    @Test
+    public void shouldAllowToAddItemToShoppingListWhenEmpty() {
+        shoppingListMock.addToShoppingList(productMock);
+
+        Mockito.verify(shoppingListMock).addToShoppingList(productMock);
     }
 
     @Test
     public void shouldAllowToAddItemToShoppingList() {
-        shoppingList.addToShoppingList(product);
+        shoppingListMock.addToShoppingList(productMock);
+        shoppingListMock.addToShoppingList(productMock);
+
+        Mockito.verify(shoppingListMock,Mockito.times(2)).addToShoppingList(productMock);
     }
 
     @Test
-    public void ifShoppingListIsEmpty() {
-        Assert.assertTrue(shoppingList.getShoppingList().isEmpty());
+    public void checkIfPrintingWhenShoppingListEmptyWorks(){
+        shoppingListMock.printShoppingList();
+
+        Mockito.verify(shoppingListMock).printShoppingList();
     }
+
+    @Test
+    public void checkIfPrintingWhenShoppingListNotEmptyWorks(){
+        shoppingListMock.printShoppingList();
+        shoppingListMock.addToShoppingList(productMock);
+
+        Mockito.verify(shoppingListMock).printShoppingList();
+    }
+
 }

@@ -5,7 +5,11 @@ import java.util.Collections;
 import java.util.List;
 
 public class ShoppingList {
-    private ArrayList<Product>shoppingList = new ArrayList<>();
+    private ArrayList<Product>shoppingList;
+
+    ShoppingList(){
+        shoppingList = new ArrayList<>();
+    }
 
     public void addToShoppingList(Product newProduct){
         this.shoppingList.add(newProduct);
@@ -27,9 +31,5 @@ public class ShoppingList {
             totalShoppingPrice+=shoppingList.get(i).getPrice();
         }
         return totalShoppingPrice;
-    }
-
-    public List<Product> getShoppingList(){
-        return Collections.unmodifiableList(shoppingList);
     }
 }

@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class LCD {
     private ShoppingList shoppingList;
 
-    public LCD() {
+    LCD() {
         this.shoppingList = new ShoppingList();
     }
 

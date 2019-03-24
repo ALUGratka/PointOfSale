@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0555ac3-113c-4eba-9f5e-f67c0688b49c" name="Default" comment="" />
+    <list default="true" id="d0555ac3-113c-4eba-9f5e-f67c0688b49c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/LCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/LCD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/ShoppingList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/ShoppingList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/LCDTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/LCDTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/ShoppingListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/ShoppingListTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,7 +20,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
+            <state relative-caret-position="393">
               <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
             </state>
           </provider>
@@ -24,29 +29,12 @@
       <file leaf-file-name="ShoppingList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/ShoppingList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+            <state relative-caret-position="86">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#1036#1037#0" expanded="true" />
-                <element signature="e#1069#1070#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShoppingListTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/ShoppingListTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="e#685#686#0" expanded="true" />
-                <element signature="e#740#741#0" expanded="true" />
-                <element signature="e#752#753#0" expanded="true" />
-                <element signature="e#827#828#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -55,8 +43,8 @@
       <file leaf-file-name="LCD.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/LCD.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+            <state relative-caret-position="17">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#160#161#0" expanded="true" />
@@ -70,46 +58,39 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LCDTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LCDTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/LCDTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="153">
+              <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#550#551#0" expanded="true" />
+                <element signature="e#619#620#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PointOfSale.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ShoppingListTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/ShoppingListTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="783">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#628#629#0" expanded="true" />
+                <element signature="e#708#709#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PointOfSale.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/PointOfSale.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DatabaseOfProducts.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/DatabaseOfProducts.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#713#714#0" expanded="true" />
-                <element signature="e#754#755#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PointOfSaleTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/PointOfSaleTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+            <state relative-caret-position="238">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -120,10 +101,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>befo</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -140,13 +129,15 @@
         <option value="$PROJECT_DIR$/src/test/java/ShoppingListTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/LCDTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/Product.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/LCD.java" />
         <option value="$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/AppTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/PointOfSale.java" />
         <option value="$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/PointOfSaleTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/ShoppingListTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/DatabaseOfProducts.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/PointOfSale.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/DatabaseOfProductsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/ShoppingListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/ShoppingList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/LCD.java" />
         <option value="$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/LCDTest.java" />
       </list>
     </option>
@@ -168,17 +159,19 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="922" />
-    <option name="y" value="83" />
-    <option name="width" value="980" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -237,8 +230,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,6 +245,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.gratkowska.alicja" />
       <recent name="" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -275,24 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="ShoppingListTest.ifShoppingListIsEmpty" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PointOfSale" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="pl.gratkowska.alicja" />
-      <option name="MAIN_CLASS_NAME" value="pl.gratkowska.alicja.ShoppingListTest" />
-      <option name="METHOD_NAME" value="ifShoppingListIsEmpty" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
+  <component name="RunManager" selected="JUnit.LCDTest.shouldCreateLCDMockInstance">
     <configuration name="PointOfSale" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.gratkowska.alicja.PointOfSale" />
       <module name="PointOfSale" />
@@ -307,24 +282,7 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="LCDTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PointOfSale" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="pl.gratkowska.alicja" />
-      <option name="MAIN_CLASS_NAME" value="pl.gratkowska.alicja.LCDTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="LCDTest.shopping" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LCDTest.shouldCreateLCDMockInstance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PointOfSale" />
       <extension name="coverage">
         <pattern>
@@ -336,7 +294,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="pl.gratkowska.alicja" />
       <option name="MAIN_CLASS_NAME" value="pl.gratkowska.alicja.LCDTest" />
-      <option name="METHOD_NAME" value="shopping" />
+      <option name="METHOD_NAME" value="shouldCreateLCDMockInstance" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -361,6 +319,52 @@
       <option name="MAIN_CLASS_NAME" value="pl.gratkowska.alicja.ShoppingListTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ShoppingListTest.checkIfPrintingWhenShoppingListNotEmptyWorks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PointOfSale" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.gratkowska.alicja.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="pl.gratkowska.alicja" />
+      <option name="MAIN_CLASS_NAME" value="pl.gratkowska.alicja.ShoppingListTest" />
+      <option name="METHOD_NAME" value="checkIfPrintingWhenShoppingListNotEmptyWorks" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ShoppingListTest.shouldAllowToAddItemToShoppingListWhenEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PointOfSale" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.gratkowska.alicja.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="pl.gratkowska.alicja" />
+      <option name="MAIN_CLASS_NAME" value="pl.gratkowska.alicja.ShoppingListTest" />
+      <option name="METHOD_NAME" value="shouldAllowToAddItemToShoppingListWhenEmpty" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -409,19 +413,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.LCDTest" />
-      <item itemvalue="Android JUnit.ShoppingListTest.ifShoppingListIsEmpty" />
-      <item itemvalue="Application.PointOfSale" />
-      <item itemvalue="JUnit.LCDTest.shopping" />
       <item itemvalue="JUnit.ShoppingListTest" />
+      <item itemvalue="JUnit.ShoppingListTest.shouldAllowToAddItemToShoppingListWhenEmpty" />
+      <item itemvalue="JUnit.ShoppingListTest.checkIfPrintingWhenShoppingListNotEmptyWorks" />
+      <item itemvalue="Application.PointOfSale" />
+      <item itemvalue="JUnit.LCDTest.shouldCreateLCDMockInstance" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LCDTest.shouldCreateLCDMockInstance" />
         <item itemvalue="Application.PointOfSale" />
         <item itemvalue="JUnit.ShoppingListTest" />
-        <item itemvalue="JUnit.LCDTest" />
-        <item itemvalue="Android JUnit.ShoppingListTest.ifShoppingListIsEmpty" />
-        <item itemvalue="JUnit.LCDTest.shopping" />
+        <item itemvalue="JUnit.ShoppingListTest.checkIfPrintingWhenShoppingListNotEmptyWorks" />
+        <item itemvalue="JUnit.ShoppingListTest.shouldAllowToAddItemToShoppingListWhenEmpty" />
       </list>
     </recent_temporary>
   </component>
@@ -438,64 +442,65 @@
       <workItem from="1552943865951" duration="13570000" />
       <workItem from="1553015352335" duration="86000" />
       <workItem from="1553342992209" duration="11623000" />
+      <workItem from="1553453247560" duration="6234000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LCDTest - 2019.03.23 at 15h 18m 57s.xml">
+    <history-entry file="LCDTest - 2019.03.24 at 21h 22m 24s.xml">
       <configuration name="LCDTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LCDTest - 2019.03.23 at 15h 19m 13s.xml">
+    <history-entry file="LCDTest - 2019.03.24 at 21h 23m 27s.xml">
       <configuration name="LCDTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LCDTest - 2019.03.23 at 15h 44m 43s.xml">
-      <configuration name="LCDTest" configurationId="JUnit" />
+    <history-entry file="ShoppingListTest - 2019.03.24 at 21h 24m 41s.xml">
+      <configuration name="ShoppingListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LCDTest - 2019.03.23 at 15h 46m 09s.xml">
-      <configuration name="LCDTest" configurationId="JUnit" />
+    <history-entry file="ShoppingListTest_checkIfPrintingWhenShoppingListEmptyWorks - 2019.03.24 at 21h 26m 28s.xml">
+      <configuration name="ShoppingListTest.checkIfPrintingWhenShoppingListEmptyWorks" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LCDTest - 2019.03.23 at 15h 46m 29s.xml">
-      <configuration name="LCDTest" configurationId="JUnit" />
+    <history-entry file="ShoppingListTest - 2019.03.24 at 21h 27m 21s.xml">
+      <configuration name="ShoppingListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LCDTest_shopping - 2019.03.23 at 16h 00m 33s.xml">
-      <configuration name="LCDTest.shopping" configurationId="JUnit" />
+    <history-entry file="ShoppingListTest_shouldCreateMockInstance - 2019.03.24 at 21h 28m 10s.xml">
+      <configuration name="ShoppingListTest.shouldCreateMockInstance" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ShoppingListTest_ifShoppingListIsEmpty - 2019.03.23 at 16h 00m 37s.xml">
-      <configuration name="ShoppingListTest.ifShoppingListIsEmpty" configurationId="AndroidJUnit" />
+    <history-entry file="ShoppingListTest - 2019.03.24 at 21h 28m 16s.xml">
+      <configuration name="ShoppingListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LCDTest - 2019.03.23 at 16h 27m 38s.xml">
-      <configuration name="LCDTest" configurationId="JUnit" />
+    <history-entry file="ShoppingListTest_shouldAllowToAddItemToShoppingListWhenEmpty - 2019.03.24 at 21h 28m 24s.xml">
+      <configuration name="ShoppingListTest.shouldAllowToAddItemToShoppingListWhenEmpty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LCDTest - 2019.03.23 at 16h 32m 51s.xml">
-      <configuration name="LCDTest" configurationId="JUnit" />
+    <history-entry file="ShoppingListTest_checkIfPrintingWhenShoppingListNotEmptyWorks - 2019.03.24 at 21h 28m 41s.xml">
+      <configuration name="ShoppingListTest.checkIfPrintingWhenShoppingListNotEmptyWorks" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ShoppingListTest - 2019.03.23 at 16h 33m 02s.xml">
+    <history-entry file="ShoppingListTest - 2019.03.24 at 21h 28m 49s.xml">
       <configuration name="ShoppingListTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25279000" />
+    <option name="totallyTimeSpent" value="31513000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="738" y="67" width="784" height="840" extended-state="0" />
+    <frame x="762" y="0" width="781" height="840" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3272472" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3252841" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3309659" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3309659" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286517" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3577348" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19694868" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32162923" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -507,22 +512,23 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32162923" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.328125" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12348993" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3258427" />
       <window_info anchor="right" id="Database" order="6" />
@@ -530,10 +536,10 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32954547" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3988764" />
       <window_info id="Capture Tool" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3272472" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info id="Favorites" order="6" side_tool="true" />
@@ -546,6 +552,91 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/ShoppingList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/ShoppingListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/LCD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#981#982#0" expanded="true" />
+            <element signature="e#1034#1035#0" expanded="true" />
+            <element signature="e#1073#1074#0" expanded="true" />
+            <element signature="e#1106#1107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/LCDTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/DatabaseOfProducts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/PointOfSaleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/PointOfSale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
@@ -575,40 +666,22 @@
           <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PointOfSale.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PointOfSale.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Product.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/ShoppingList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#1036#1037#0" expanded="true" />
-            <element signature="e#1069#1070#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -642,34 +715,22 @@
           <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PointOfSale.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PointOfSale.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Product.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/ShoppingList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#1036#1037#0" expanded="true" />
-            <element signature="e#1069#1070#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -679,35 +740,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/ProductsBarcode.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
+        <state relative-caret-position="393">
           <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PointOfSale.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/PointOfSale.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Product.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/PointOfSale.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/PointOfSale.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -715,47 +755,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/ShoppingList.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/PointOfSaleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        <state relative-caret-position="170">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/DatabaseOfProductsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="62" lean-forward="true" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#1036#1037#0" expanded="true" />
-            <element signature="e#1069#1070#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/LCDTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/DatabaseOfProducts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="32">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/ShoppingList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/PointOfSale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/ShoppingListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="783">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
           <folding>
-            <element signature="e#685#686#0" expanded="true" />
-            <element signature="e#740#741#0" expanded="true" />
-            <element signature="e#752#753#0" expanded="true" />
-            <element signature="e#827#828#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/LCD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        <state relative-caret-position="17">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#160#161#0" expanded="true" />
@@ -768,29 +831,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/DatabaseOfProducts.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/LCDTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        <state relative-caret-position="153">
+          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#713#714#0" expanded="true" />
-            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/gratkowska/alicja/PointOfSaleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/gratkowska/alicja/PointOfSale.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
         </state>
       </provider>
     </entry>
